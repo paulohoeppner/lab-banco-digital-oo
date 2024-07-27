@@ -1,18 +1,77 @@
-# Criando um Banco Digital com Java e Orientação a Objetos
+<div align="center">
+    <h1>Santander 2024 - Backend com Java</h1>
+</div>
+<br><br>
 
-## 02/08/2021 - [Mentoria #1: Tire Suas Dúvidas Sobre Orientação a Objetos](https://www.youtube.com/watch?v=YS6ouOhkyNI)
+<div align="center">
+    <img align="center" src="assets\images\dio-logo.png" width="" height="60" hspace="80">
+    <img align="center" src="assets\images\santander-logo.png" width="" height="100" hspace="">               
+</div>
+<br><br>
 
-Desafio: Considerando nosso conhecimento no domínio bancário, iremos abstrair uma solução Orientada a Objetos em Java. Para isso, vamos interpretar o seguinte cenário:
-“Um banco oferece aos seus clientes dois tipos de contas (corrente e poupança), as quais possuem as funcionalidades de depósito, saque e transferência (entre contas da própria instituição).”
+<div align="center"><img src="assets\images\bootcamp-logo.png" width="" height="300" hspace="">
+</div>
+<br><br>
 
-### Abstração
-Habilidade de concentrar-se nos aspectos essenciais de um domínio, ignorando características menos importantes ou acidentais. Nesse contexto, objetos são abstrações de entidades existentes no domínio em questão.
+<div align="center"><img src="assets\images\bootcamp-dio.png" width="300" height="" hspace="10">
+</div>     
+<br><br>
 
-### Encapsulamento
-Encapsular significa esconder a implementação dos objetos, criando assim interfaces de uso mais concisas e fáceis de usar/entender. O encapsulamento favorece principalmente dois aspectos de um sistema: a manutenção e a evolução.
+<div align="center">                           
+    <img align="center" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg"  height="100"/>                                                        
+</div>
+<br><br>
 
-### Herança
-Permite que você defina uma classe filha que reutiliza (herda), estende ou modifica o comportamento de uma classe pai. A classe cujos membros são herdados é chamada de classe base. A classe que herda os membros da classe base é chamada de classe derivada.
+<div align="center">
+    <img src="https://img.shields.io/badge/IN%C3%8DCIO-23%2F04%2F2024-green" hspace="5"/>
+    <img src="https://img.shields.io/badge/T%C3%89RMINO-29%2F07%2F2024-red" hspace="5"/>
+    
+</div>
+<br>
+<hr>
+<div align="center">
+<h3>87 horas | 29 cursos | 8 desafios de projeto | 2 desafios de código | 1 lives</h3>
+</div>
+<hr>
 
-### Polimorfismo
-Capacidade de um objeto poder ser referenciado de várias formas, ou seja, é capacidade de tratar objetos criados a partir das classes específicas como objetos de uma classe genérica. Cuidado, polimorfismo não quer dizer que o objeto fica se transformando, muito pelo contrário, um objeto nasce de um tipo e morre daquele tipo, o que pode mudar é a maneira como nos referimos a ele.
+## Introdução
+Olá,
+
+Esse repositório corresponde ao projeto "Criando um Banco Digital com Java e Orientação a Objetos" da [DIO - Digital Innovation One](https://www.dio.me/).
+<hr>
+
+## Objetivo
+
+Foi reforçado o conhecimento em Programação Orientada a Objetos (POO) em Java com um desafio de projeto totalmente prático. Para isso, os pilares da orientação a objetos são devidamente explorados no contexto bancário, onde o expert implementa um projeto de forma prática e interativa. Sendo assim, desenvolvemos a capacidade de abstração reproduzindo essa solução.
+
+Explorado todos os conceitos que aprendemos nessa imersão e replicado este projeto prático. 
+<br>
+<hr>
+
+## Próximos passos
+
+Continuar o evoluindo no estudo em Programação Orientada a Objetos (POO) em Java para futuros projetos e aplicações. 
+<hr>
+
+## Tecnologias Utilizadas
+
+<div align=left>
+<img align=center src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg" width="" height="60" hspace="5"/>
+<img align=center src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" width="" height="50" hspace="5"/>
+</div>
+
+## Cursos Envolvidos
+### **Santander 2024 - Backend com Java** 
+#### **Programação Orientada a Objetos com Java:**
+- Criando um Banco Digital com Java e Orientação a Objetos
+<hr>
+
+## Repositório Original do GitHub
+Referência direta ao código-fonte original.
+
+- Venilton FalvoJr: [Venilton FalvoJr](https://github.com/falvojr)
+- Endereço: [lab-banco-digital-oo](https://github.com/falvojr/lab-banco-digital-oo)
+<hr>
+
+## Agradecimentos
+Gostaria de agradecer a [DIO - Digital Innovation One](https://www.dio.me/) e ao instrutor [Venilton FalvoJr](https://github.com/falvojr) por compartilhar seu conhecimento.
